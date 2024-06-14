@@ -1,0 +1,7 @@
+﻿Country,Channel,Month_Year,Successful,UnSuccessful,Total,Success Percentage
+HK,Internet,Dec-23,673480,16516,689996,90.9
+HK,Internet,Jan-24,630152,17966,648118,95.8
+HK,Internet,Feb-24,777223,18763,795986,99.87
+HK,Mobile,Dec-23,6751532,238105,6989637,99.9
+HK,Mobile,Jan-24,6063108,224842,6287950,99.87
+HK,Mobile,Feb-24,7002254,235435,7237689,99.99
